@@ -1,0 +1,50 @@
+
+ * {
+    margin:0;
+    padding:0px;
+  }
+  #calc input {
+    width:40px;
+    height:40px;
+    margin:1.5px;
+    font-size:30px;
+  }
+
+  .area {
+    width:170px;
+    height:30px;
+    padding:2px;
+    font-size:30px;
+    margin: 0.1em
+  }
+
+body {
+  background: rgb(91, 93, 248);
+  margin-top: 10%;
+}
+
+h1 {
+  margin-bottom: 5%;
+  background: lightgrey;
+  margin-left: 35%;
+  width: 30%;
+  color: black;
+  font-size: 1.5em;
+  border: solid black;
+  font-weight: bold;
+  text-align: center;
+}
+
+input:hover {
+  background: grey;
+  color: rgb(0, 217, 255);
+}
+
+form {
+  background: lightgrey;
+  margin-left: 40%;
+  width: 20%;
+  border: solid black;
+  font-weight: bold;
+}
+
